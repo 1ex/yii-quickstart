@@ -1,0 +1,65 @@
+/* This is the main css file */
+
+#doc3 {
+	margin:auto;
+}
+
+#header {
+	height:200px;
+	padding: 1em;
+	background-color:#333333;
+	color:#EEEEEE;
+}
+
+#leftcolumn {
+	height:500px;
+	background-color:#88AAEE;
+}
+
+#rightcolumn {
+	height:200px;
+	background-color:#AAAAEE;
+}
+
+#footer {
+	height:200px;
+	padding: 1em;
+	background-color:#333333;
+	color:#EEEEEE;
+}
+
+/**
+ * Main Menu section 
+ */
+#mainmenu {
+	/*padding:1em;*/
+	padding-left:1em;
+	margin:0;
+	padding-right:1em;
+}
+
+#mainmenu a{
+	color: #222222;
+	text-decoration: none;
+}
+
+#mainmenu a:hover{
+		color: #FFFFFF;
+		text-decoration: none;
+}
+
+#mainmenu li{
+	background: #BBC5F0;
+	/*width:100%;*/
+	padding: 5px; 
+	margin:2px;
+	list-style: none outside;
+}
+
+/**
+ * Content section 
+ */
+
+#content {
+	padding-left: 2em;
+}

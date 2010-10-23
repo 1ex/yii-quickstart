@@ -1,0 +1,4 @@
+assets/*
+protected/runtime/*
+*.swp
+*.swo
